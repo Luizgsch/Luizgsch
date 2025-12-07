@@ -26,13 +26,5 @@ Busco desenvolver soluções eficientes, limpas e bem estruturadas.
 
 ---
 
-### 📊 Estatísticas do GitHub
-<div>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Luizgsch&show_icons=true&theme=tokyonight"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizgsch&layout=compact&theme=tokyonight"/>
-</div>
-
----
-
 ### 📫 Contato
 **Email:** luiz.sch05@gmail.com  

@@ -35,4 +35,4 @@ Busco desenvolver soluções eficientes, limpas e bem estruturadas.
 ---
 
 ### 📫 Contato
-**Email:** luiz.sch05@gmail.com  
+**Email:** luizgsch1@gmail.com  

@@ -1,38 +1,79 @@
-# 👋 Olá, eu sou o Luiz
+# Olá, eu sou o Luiz
 
-Desenvolvedor em formação, com foco em **Desenvolvimento Fullstack Java**. Cursando **Engenharia de Software** e autodidata.  
-Atualmente estudando **Java, HTML, CSS, JavaScript, SQL**
+Desenvolvedor Fullstack com foco em **Java + Spring Boot** e aplicações web modernas.
 
-Busco desenvolver soluções eficientes, limpas e bem estruturadas.
+Experiência na construção de **APIs REST**, modelagem de dados, autenticação e arquitetura em camadas, além de desenvolvimento frontend com **React e TypeScript**.
 
----
-
-###  Tecnologias que estou estudando:
-<div style="display: flex; gap: 10px;">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" height="40">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+Busco desenvolver sistemas escaláveis, bem estruturados e alinhados com boas práticas de engenharia de software.
 
 ---
 
-### 📌 Projetos em destaque
-| Projeto | Descrição | Código |
-|--------|-----------|--------|
-| Controle de Meta Financeira | App simples para registrar depósitos e acompanhar progresso da meta | 🔗 [`Repositório`](https://github.com/Luizgsch/Projeto-Controle-de-Meta-Financeira) |
-| Exercícios de Java | Registro contínuo dos exercícios que estou desenvolvendo | 🔗 [`Repositório`](https://github.com/Luizgsch/exercicios-java) |
+## Tecnologias
+
+**Backend**
+
+* Java 17+, Spring Boot (Web, Data JPA, Security)
+* PostgreSQL, MongoDB
+
+**Frontend**
+
+* React, TypeScript, JavaScript
+* HTML5, CSS3
+
+**Ferramentas**
+
+* Git, Docker, Swagger, Postman
+* Metodologias ágeis (Scrum, Kanban)
+* Linux
 
 ---
 
-### 📊 Estatísticas do GitHub
-<div>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Luizgsch&show_icons=true&theme=tokyonight"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizgsch&layout=compact&theme=tokyonight"/>
-</div>
+## Projetos em destaque
+
+### 🟢 Sistema de Controle de Estoque
+
+Aplicação fullstack com backend em Java + Spring Boot e frontend em React.
+
+* API REST com regras de negócio
+* Persistência com banco relacional
+* Controle dinâmico de produtos
+* Arquitetura em camadas
 
 ---
 
-### 📫 Contato
-**Email:** luizgsch1@gmail.com  
+### 🟡 API de Agendamento de Tarefas
+
+Sistema completo de gerenciamento de tarefas com autenticação de usuários.
+
+* CRUD completo de tarefas
+* Autenticação e controle de usuários
+* Notificações por e-mail
+* Documentação com Swagger
+* Execução com Docker
+
+🔗 Código: https://github.com/Luizgsch/usuario e https://github.com/Luizgsch/agendador-tarefas 
+
+---
+
+### 🔵 Portfólio Profissional
+
+Website responsivo com foco em UI/UX e interações modernas.
+
+🔗 Acesse: https://github.com/Luizgsch/Portifolio
+
+---
+
+##  Diferenciais
+
+* Aplicação de boas práticas como SOLID e arquitetura em camadas
+* Experiência prática com APIs REST e autenticação
+* Conhecimento em Docker e ambiente de desenvolvimento padronizado
+* Capacidade de aprendizado rápido e autodidatismo
+
+---
+
+## 📫 Contato
+
+* Email: [Luizgsch1@gmail.com](mailto:Luizgsch1@gmail.com)
+* LinkedIn: https://linkedin.com/in/luizschreiner
+* Portfólio: https://luizgsch.github.io/Portfolio/

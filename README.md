@@ -10,6 +10,10 @@ Busco desenvolver sistemas escaláveis, bem estruturados e alinhados com boas pr
 
 ## Tecnologias
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mongodb,react,ts,js,html,css,docker,git" />
+</p>
+
 **Backend**
 
 * Java 17+, Spring Boot (Web, Data JPA, Security)
@@ -62,14 +66,12 @@ Website responsivo com foco em UI/UX e interações modernas.
 🔗 Acesse: https://github.com/Luizgsch/Portifolio
 
 ---
+## 📊 Estatísticas do GitHub
 
-##  Diferenciais
-
-* Aplicação de boas práticas como SOLID e arquitetura em camadas
-* Experiência prática com APIs REST e autenticação
-* Conhecimento em Docker e ambiente de desenvolvimento padronizado
-* Capacidade de aprendizado rápido e autodidatismo
-
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Luizgsch&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizgsch&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 ---
 
 ## 📫 Contato

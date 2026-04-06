@@ -69,8 +69,8 @@ Website responsivo com foco em UI/UX e interações modernas.
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Luizgsch&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizgsch&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Luizgsch&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizgsch&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 ---
 

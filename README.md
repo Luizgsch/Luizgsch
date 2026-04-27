@@ -16,12 +16,12 @@ Busco desenvolver sistemas escaláveis, bem estruturados e alinhados com boas pr
 
 **Backend**
 
-* Java 17+, Spring Boot (Web, Data JPA, Security)
+* Java 17+, Spring Boot (Web, Data JPA, Security), NodeJS, Kotlin
 * PostgreSQL, MongoDB
 
 **Frontend**
 
-* React, TypeScript, JavaScript
+* React, TypeScript, JavaScript, NextJS
 * HTML5, CSS3
 
 **Ferramentas**
